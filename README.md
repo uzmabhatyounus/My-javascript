@@ -1,2 +1,3 @@
 # My-javascript
-Learning javascript
+
+Learning javascript and python
